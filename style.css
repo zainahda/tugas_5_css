@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  background-color: black;
+  margin-top: 10px;
+}
+
+.div_menu .menu{
+  color: #fff;
+  font-size: 20px;
+  padding: 3px;
+}
+
+main {
+  margin: 10px 0;
+}
+
+.slider-div {
+  text-align: center;
+  margin: 0 0 15px 0;
+}
+
+main p {
+  margin-bottom: 15px;
+}
+
+footer {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.footer {
+  font-size: 18px;
+}
